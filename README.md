@@ -27,7 +27,7 @@ We present **AbdomemAtlas2.0** (The Multi-Tumor Segmentation Dataset) recently c
 Johns Hopkins University <br/>
 ICCV 2025 <br/>
 
-<a href='https://www.zongweiz.com/dataset'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2510.14831'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
+<a href='https://www.zongweiz.com/dataset'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://www.cs.jhu.edu/~zongwei/publication/chen2025scaling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
 
 # AbdomenAtlas2.0 Dataset
 
